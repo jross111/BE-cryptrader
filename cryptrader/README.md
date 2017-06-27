@@ -1,24 +1,17 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Cryptrader will allow a user to trade simulate buying and selling various cryptocurrencies for USD.
 
-Things you may want to cover:
+### The app will keep track of available USD to trade as well ass their current balance in each cryptocurrency and their overall value in combined USD.
 
-* Ruby version
+### A user will be able to see their trade history as will as various stats on their current holdings.
 
-* System dependencies
+### The app will use a rails backend with postgres db and a react front end.
 
-* Configuration
+### Real time market prices will be used in real time from various market APIs (ex: blockchain.info API)
 
-* Database creation
+Skateboard:
+![skateboard](https://i.snag.gy/tQZi2I.jpg)
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Stretch Mockup:
+![stretch mockup](https://i.snag.gy/zVRFs7.jpg)
