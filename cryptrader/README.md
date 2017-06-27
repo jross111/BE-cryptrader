@@ -10,8 +10,8 @@
 
 ### Real time market prices will be used in real time from various market APIs (ex: blockchain.info API)
 
-Skateboard:
+## Skateboard:
 ![skateboard](https://i.snag.gy/tQZi2I.jpg)
 
-Stretch Mockup:
+## Stretch Mockup:
 ![stretch mockup](https://i.snag.gy/zVRFs7.jpg)
