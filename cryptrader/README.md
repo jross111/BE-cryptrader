@@ -12,15 +12,19 @@
 
 ## Skateboard:
 ![skateboard](https://i.snag.gy/tQZi2I.jpg)
+---
 
 ## Stretch Mockup:
 ![stretch mockup](https://i.snag.gy/zVRFs7.jpg)
 
+---
+[Back End Repo](https://github.com/jross111/BE-cryptrader)
+---
+[Front End Repo](https://github.com/jross111/FE-Cryptrader-React)
 
-##[Back End Repo](https://github.com/jross111/BE-cryptrader)
-##[Front End Repo](https://github.com/jross111/FE-Cryptrader-React)
 
 
-
-
-####![crypt](http://66.media.tumblr.com/ebfdedc3b49d239e6135a82737c7cecf/tumblr_o7qpsayvQ11rp0vkjo1_500.gif)
+---
+---
+---
+![crypt](http://66.media.tumblr.com/ebfdedc3b49d239e6135a82737c7cecf/tumblr_o7qpsayvQ11rp0vkjo1_500.gif)
