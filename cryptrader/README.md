@@ -19,3 +19,8 @@
 
 ##[Back End Repo](https://github.com/jross111/BE-cryptrader)
 ##[Front End Repo](https://github.com/jross111/FE-Cryptrader-React)
+
+
+
+
+####![crypt](http://66.media.tumblr.com/ebfdedc3b49d239e6135a82737c7cecf/tumblr_o7qpsayvQ11rp0vkjo1_500.gif)
